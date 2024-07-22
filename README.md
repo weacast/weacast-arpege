@@ -1,3 +1,5 @@
+> **Important:** this module is now deprecated, please use the corresponding package in the [weacast monorepo](https://github.com/weacast/weacast).
+
 # weacast-arpege
 
 [![Build Status](https://app.travis-ci.com/weacast/weacast-arpege.svg?branch=master)](https://app.travis-ci.com/weacast/weacast-arpege)
